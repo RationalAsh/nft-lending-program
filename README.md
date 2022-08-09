@@ -30,3 +30,5 @@ An NFT lending program written for the Solana blockchain using Rust and the Anch
 8. [About Program Derived Addresses (PDAs)](https://solanacookbook.com/core-concepts/pdas.html#facts)
 9. [Proof of History: A Clock for Blockchain](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)
 10. [NFT Lending on Solana](https://blog.solend.fi/nft-lending-on-solana-d7da7d54cc72?gi=1b6f0523d26c)
+11. [Oracle for Solana - Switchboard](https://switchboard.xyz)
+12. [Oracle for Solana - PYTH](https://pyth.network)

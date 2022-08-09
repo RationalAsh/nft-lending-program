@@ -9,7 +9,9 @@ An NFT lending program written for the Solana blockchain using Rust and the Anch
 - [ ] Borrow NFT (by borrower)
 - [ ] Cancel borrow (by borrower)
 
-# Similar Projects
+# Resources
+
+## Similar Projects
 1. [Solend](https://solend.fi)
 2. [Solvent](https://solvent.xyz)
 3. [NFTFI](https://www.nftfi.com)
@@ -17,7 +19,7 @@ An NFT lending program written for the Solana blockchain using Rust and the Anch
 5. [Cardinal Protocol - Rent NFTs on Solana](https://www.cardinal.so)
 6. [renft](https://www.renft.io)
 
-# Resources
+## Learning Resources
 1. [https://www.anchor-lang.com](https://www.anchor-lang.com)
 2. [https://spl.solana.com/token](https://spl.solana.com/token)
 3. [Example - Escrow Marketplace Program](https://github.com/MetacampDAO/escrow-marketplace-program)

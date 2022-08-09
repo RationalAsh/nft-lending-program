@@ -18,3 +18,4 @@ An NFT lending program written for the Solana blockchain using Rust and the Anch
 6. [Understanding Program Derived Addresses - Brian Friel](https://www.brianfriel.xyz/understanding-program-derived-addresses/)
 7. [How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
 8. [About Program Derived Addresses (PDAs)](https://solanacookbook.com/core-concepts/pdas.html#facts)
+9. [Proof of History: A Clock for Blockchain](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)

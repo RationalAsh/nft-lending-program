@@ -14,6 +14,7 @@ An NFT lending program written for the Solana blockchain using Rust and the Anch
 2. [Solvent](https://solvent.xyz)
 3. [NFTFI](https://www.nftfi.com)
 4. [nexo](https://nexo.io/nft-lending)
+5. [Cardinal Protocol - Rent NFTs on Solana](https://www.cardinal.so)
 
 # Resources
 1. [https://www.anchor-lang.com](https://www.anchor-lang.com)

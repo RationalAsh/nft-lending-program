@@ -9,6 +9,12 @@ An NFT lending program written for the Solana blockchain using Rust and the Anch
 - [ ] Borrow NFT (by borrower)
 - [ ] Cancel borrow (by borrower)
 
+# Similar Projects
+1. [Solend](https://solend.fi)
+2. [Solvent](https://solvent.xyz)
+3. [NFTFI](https://www.nftfi.com)
+4. [nexo](https://nexo.io/nft-lending)
+
 # Resources
 1. [https://www.anchor-lang.com](https://www.anchor-lang.com)
 2. [https://spl.solana.com/token](https://spl.solana.com/token)
@@ -19,3 +25,4 @@ An NFT lending program written for the Solana blockchain using Rust and the Anch
 7. [How to Build on Solana](https://www.brianfriel.xyz/learning-how-to-build-on-solana/)
 8. [About Program Derived Addresses (PDAs)](https://solanacookbook.com/core-concepts/pdas.html#facts)
 9. [Proof of History: A Clock for Blockchain](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)
+10. [NFT Lending on Solana](https://blog.solend.fi/nft-lending-on-solana-d7da7d54cc72?gi=1b6f0523d26c)
